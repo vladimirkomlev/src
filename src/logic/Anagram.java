@@ -30,7 +30,7 @@ public class Anagram {
 		System.out.println("Enter your text");
 		strValues = scanner.nextLine();
 		scanner.close();
-		System.out.println("====================");
+		System.out.println("========================");
 	}
 
 	public static void viewResult() {
